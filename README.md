@@ -1,3 +1,3 @@
 # (C++) Projects
 
-These are Projects that were created using the C++ language
+These are projects were developed using the C++ language
